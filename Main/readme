@@ -1,0 +1,20 @@
+# Password-generator
+
+We are going to create a password generator app with javascript as the main driver.
+This password includes special characters,numbers and letters.
+
+## Summary
+
+When presented with application a welcome page is desplayed 
+Then one should be able to type password into box or click the password generate button
+When password is typed user should be able to click generate password button.
+## Credits
+
+mdn documentation
+www.youtube.com
+
+## Author
+
+laura Makokha 
+
+https://github.com/codinglov/password-generator
